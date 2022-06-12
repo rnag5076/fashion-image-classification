@@ -7,7 +7,7 @@ This Project entails the techniques for the classification of fashion images on 
 > Techniques
   * For Handling Null values - To begin, I created a cnn that was trained on the valid values (rows with no Nan Values). I predicted the Nan values using that model, then retrained my model to produce more efficient outputs. 
   * Introducing a new Attribute - To efficiently train the model, we created a new attribute by combining all of the attribute values and then training our model on that attribute. 
-  * * A Data Augmentation strategy was also used in order to expand the amount of the data so that our model does not produce skewed findings.
+  * A Data Augmentation strategy was also used in order to expand the amount of the data so that our model does not produce skewed findings.
 
 > Project Flow
 
