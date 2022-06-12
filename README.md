@@ -1,1 +1,21 @@
-# fashion-image-classification
+# Fashion-image-classification
+
+Link to the augmented dataset: https://drive.google.com/file/d/1VqUBOUGKCHAreXBlQBPVlnyzkVHNplfq/view?usp=sharing
+
+This Project entails the techniques for the classification of fashion images. 
+
+> Method Used
+
+  * GENERATING DESCRIPTIVE STATISTICS ABOUT THE DATASET
+  * PRINITNG THE UNIQUE CATEGORIES INSIDE EACH ATTRIBUTE
+  * VALUE COUNT FOR EACH SUB-CATEGORY OF EACH ATTRIBUTE
+  * CHECKING FOR NULL VALUES
+  * CHECK IF THERE ARE ROWS HAVING ALL VALUES AS NA
+  * DROP NAN VALUES
+  * BALANCING THE DATA BY DATA AUGMENTATION TECHNIQUES
+  * CREATING A SIMPLE CNN MODEL AND TRAINING IT ON OUR DATASET
+  * READING THE CSV FILE AND RETRIEVING NAN VALUE IMAGES
+  * PREDICITNG THE NAN IMAGES
+  * Augmented Dataset [Link](https://drive.google.com/file/d/1VqUBOUGKCHAreXBlQBPVlnyzkVHNplfq/view?usp=sharing)
+  * CREATING NEW CNN MODEL AFTER INCLUDING NAN IMAGES
+  * MAKING OUTPUT CSV FILE
