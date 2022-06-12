@@ -1,6 +1,6 @@
 # Fashion-image-classification
 
-Link to the augmented dataset: https://drive.google.com/file/d/1VqUBOUGKCHAreXBlQBPVlnyzkVHNplfq/view?usp=sharing
+MAIN FILE :- analysis.ipynb
 
 This Project entails the techniques for the classification of fashion images. 
 
